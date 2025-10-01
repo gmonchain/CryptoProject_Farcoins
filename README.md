@@ -35,8 +35,6 @@ Farcoins addresses the complexities of Web3 by offering a unified and user-frien
 
 *   **Holistic Portfolio Management:** Gain a clear and comprehensive overview of all your digital assets in one centralized location. Visualizations and performance insights help you make informed decisions.
 
-*   **Uncompromised Security:** Built on a foundation of robust security protocols, Farcoins ensures that your transactions and asset management within the social environment are always safe and secure.
-
 *   **Engage and Earn:** Become an active participant in the Farcaster ecosystem and be rewarded for your engagement. Farcoins fosters a vibrant community where your contributions are valued and incentivized.
 
 ## Farcoins: Making Web3 Accessible and Rewarding
